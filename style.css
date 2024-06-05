@@ -1,6 +1,7 @@
 body {
-    background-color: cadetblue;
+    background-image: linear-gradient(yellow, red, blue, purple);
     text-align: center;
+    
 }
 img{
     height: 200px;
